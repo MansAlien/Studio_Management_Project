@@ -64,7 +64,9 @@ This project is designed to streamline studio management by providing comprehens
 <br><br>
 
 ### 🌐 Explore the Live Project
-Check out the live project [here](51.20.117.160:8000) to see it in action! 🚀
+Check out the live project [here](http://51.20.117.160:8000) to see it in action! 🚀
+- username: admin
+- password: mans123
 
 ## 📸 Screenshots
 
